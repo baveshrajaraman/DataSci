@@ -1,5 +1,5 @@
 ---
-title: "Project1"
+title: "proj1"
 author: "me"
 date: "14/08/2020"
 output: pdf_document
@@ -18,6 +18,11 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 summary(cars)
 ```
+
+## Including Bullet Points
+- easy  
+- efficient  
+- exact  
 
 ## Including Plots
 
